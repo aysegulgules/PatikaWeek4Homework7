@@ -1,1 +1,1 @@
-# PatikaWeek4Homework7
+<span style="font-size:0.5em;"> # PatikaWeek4Homework7 bu pratikte,  C# dilinde bir şirketin çalışanlarını temsil eden bir uygulama oluşturmayı amaçlamaktadır. Proje kapsamında, `SoftwareDeveloper`, `ProjectManager` ve `SalesRepresentative` sınıfları, `BaseWorker` sınıfından türetilmiştir.</span>
